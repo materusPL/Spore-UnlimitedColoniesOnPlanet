@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod description="A mod for Spore, adding the editor manipulators from the building editor to the creature editor. "
+displayName="Spore-UnlimitedColoniesOnPlanet"
+dllsBuild="2.5.562"
+hasCustomInstaller="false"
+installerSystemVersion="1.0.1.2"
+unique="Spore-UnlimitedColoniesOnPlanet">
+  <prerequisite game="GalacticAdventures">Spore-UnlimitedColoniesOnPlanet.package</prerequisite>
+  <prerequisite>Spore-UnlimitedColoniesOnPlanet.dll</prerequisite>
+</mod>

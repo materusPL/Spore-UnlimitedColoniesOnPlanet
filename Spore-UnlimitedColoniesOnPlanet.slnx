@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Spore-ModAPI/Spore ModAPI/Spore ModAPI.vcxproj" />
+  <Project Path="Spore-UnlimitedColoniesOnPlanet/Spore-UnlimitedColoniesOnPlanet.vcxproj">
+    <BuildDependency Project="Spore-ModAPI/Spore ModAPI/Spore ModAPI.vcxproj" />
+  </Project>
+</Solution>

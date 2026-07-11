@@ -1,0 +1,3 @@
+[submodule "Spore-ModAPI"]
+	path = Spore-ModAPI
+	url = https://github.com/Spore-Community/Spore-ModAPI.git
